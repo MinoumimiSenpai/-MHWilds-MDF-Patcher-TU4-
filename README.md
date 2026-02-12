@@ -15,6 +15,4 @@ Run the .Bat Script file
 • Tip
 
  - Make Sure All Mods .Zip/.Rar are extracted First
-• Tip
-
  * Won't Work with .Paks Unless You Also Extract Them
