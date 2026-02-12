@@ -7,11 +7,14 @@ You should have 2 files
 -> MHWs_Patcher.exe
 
 • Use
+
 Run the .Bat Script file
  - It will Update All Mdf Hex Codes in Current And Sub Folders
 
-• Tip:
- - Make Sure All Mods .Zip/.Rar are extracted First
 
-• Tip:
+• Tip
+
+ - Make Sure All Mods .Zip/.Rar are extracted First
+• Tip
+
  * Won't Work with .Paks Unless You Also Extract Them
