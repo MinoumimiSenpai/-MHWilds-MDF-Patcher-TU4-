@@ -1,10 +1,12 @@
-• Install:
+• Installation • 
+
 Simply Extract Patcher Files Into Your Mods Folder
+
 You should have 2 files
 -> MHWs_MDF_Patcher_TU4.bat
 -> MHWs_Patcher.exe
 
-• Use:
+• Use
 Run the .Bat Script file
  - It will Update All Mdf Hex Codes in Current And Sub Folders
 
