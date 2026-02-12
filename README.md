@@ -6,9 +6,9 @@ You should have 2 files
 -> MHWs_MDF_Patcher_TU4.bat
 -> MHWs_Patcher.exe
 
-• Use
+• How To Use
 
-Run the .Bat Script file
+Simply Run/Execute the .Bat Script file
  - It will Update All Mdf Hex Codes in Current And Sub Folders
 
 
