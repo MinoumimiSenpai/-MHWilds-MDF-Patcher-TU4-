@@ -2,9 +2,11 @@
 
 Simply Extract Patcher Files Into Your Mods Folder
 
-You should have 2 files
+You should have 3 files
 
 -> MHWs_MDF_Patcher_TU4.bat
+
+-> MHWs_TEX_Patcher_TU4_1.bat
 
 -> MHWs_Patcher.exe
 
